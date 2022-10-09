@@ -3,9 +3,9 @@
  
 Ce projet s'incrit dans un cardre universitaire.
 
-** Université :** UT3 - Paul Sabatier
-** Encadrant :** Lynda Lechani , Lynda.Lechani@irit.fr
-** Groupe :** 
+**Université :** UT3 - Paul Sabatier
+**Encadrant :** Lynda Lechani , Lynda.Lechani@irit.fr
+**Groupe :** 
 - Anne-Sophie Dusart
 - Auguste Verdier
 - Chloé Michel
